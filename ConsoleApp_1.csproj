@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>ConsoleApp_1.prog2</StartupObject>
+	<StartupObject>ConsoleApp_1.pog1</StartupObject>
+	  <StartupObject>ConsoleApp_1.prog3</StartupObject>
+	  	  
+
+<StartupObject>ConsoleApp_1.Prog9</StartupObject>
+	
+  </PropertyGroup>
+
+</Project>
